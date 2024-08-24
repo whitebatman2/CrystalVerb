@@ -1,2 +1,5 @@
 # CrystalVerb
-FDN reverb plugin made with C++ and JUCE
+Reverb plugin using Feedback Delay Networks (FDN) made with JUCE.
+
+## Requirements
+- JUCE version 7.0.10
